@@ -1,0 +1,9 @@
+
+Map,filter,reduce(given, stateful varients overloads?)
+storeIndex (iterate thru a list with a function that reduces an index, return the index when done, max/min)
+Reindex(do some math with an index before returning, reverse is reindex"$-i-1", also some details around length)
+Sort
+Radix-sort
+Zip
+Counter(0..int.max)
+something for permutations(I dont understand those algorthms that well)
